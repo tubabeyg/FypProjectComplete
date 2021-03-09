@@ -1,0 +1,31 @@
+#components-layout-demo-responsive .logo {
+    height: 32px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px;
+}
+
+.sssl {
+    background: rgb(0, 25, 70);
+}
+
+.ssl {
+    background: #fff;
+    min-height: calc(100vh - 60px) !important;
+    background-image: url("/assets/images/hospitaldashboard.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.logo {
+    width: 120px;
+    height: 31px;
+    margin: 16px 28px 16px 0;
+    float: left;
+}
+
+.site-layout-background {
+    background: #fff;
+}
+.logo {
+    background: rgba(255, 255, 255, 0.3);
+}

@@ -1,0 +1,14 @@
+Name													Affine		Bspline		Acceptable					
+CT_N1\Jelena Sabalina_20150831161204.SL\exported		-0.14		-0.539		yes																								
+CT_N2\Aurelien Rumiano_20140422145518.SL\extracted		-0.107		-0.474		yes															
+CT_N3\Jelena Milosavljevic_20150216155742.SL\exported	-0.127		-0.59		yes					
+\GP\ggg\DICOM\00008FD0\AA415F38\AA317A89\0000F8D5		-0.156		-0.567		yes						
+\GP\ggg\DICOM\00008FD0\AA415F38\AA317A89\00004805		-0.146		-0.62		yes				
+pre-operative\DICOM										-0.643		-1.16		yes
+su2017\Alyaev Sergei\20170920\1.2.826.... Simple		-0.023		-0.351		no		
+su2017\Alyaev Sergei\20170920\1.2.826.... Complex		-0.141		-0.463		yes	
+YZ1\DICOM\S188940\S20									-0.079		-0.726		yes				
+YZ1\DICOM\S188940\S70									-0.044		-0.761		yes
+YZ1\DICOM\S188940\S80									-0.078		-0.72		yes
+
+Based on results above, -0.45 (Affine + Bspline) seems a good threshold....

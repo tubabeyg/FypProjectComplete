@@ -1,0 +1,38 @@
+#components-layout-demo-top-side .logo {
+  width: 120px;
+  height: 31px;
+  /* background: rgba(44, 29, 100, 0.104); */
+  margin: 16px 28px 16px 0;
+  float: left;
+}
+
+.clrbody {
+  height: 100%;
+  background-repeat: no-repeat;
+  /* background-image: linear-gradient(rgb(71, 90, 148), rgb(0, 35, 146 )); */
+}
+
+.site-layout-background {
+  background: #fff;
+}
+
+.formcenter {
+  padding: 7em;
+  background-image: url("../images/signib1.jpeg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card {
+  opacity: 70%;
+}
+
+.login-heading {
+  font-size: 3em;
+  font-weight: 400;
+}
+
+.btn {
+  opacity: 100%;
+}

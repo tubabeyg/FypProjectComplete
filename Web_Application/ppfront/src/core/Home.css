@@ -1,0 +1,52 @@
+.imgg {
+    opacity: 0.75;
+    background-image: url("/assets/images/hospital.jpg");
+    min-height: calc(100vh - 60px) !important;
+    image-rendering: auto;
+    background-position: center;
+    background-size: cover;
+    height: 32px;
+}
+.home-deck-card,
+.btn .btn-raised .btn-primary {
+    width: 300px;
+    position: absolute;
+
+    position: relative;
+    height: 300px;
+}
+.dash-head1 {
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+#components-layout-demo-responsive .logo {
+    height: 32px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px;
+    opacity: 0.5;
+}
+
+.sssl {
+    background: rgb(0, 25, 70);
+}
+
+.ssl {
+    background: #fff;
+}
+
+.logo {
+    width: 120px;
+    height: 31px;
+    margin: 16px 28px 16px 0;
+    float: left;
+}
+
+.site-layout-background {
+    background: #fff;
+}
+.logo {
+    background: rgba(255, 255, 255, 0.3);
+}

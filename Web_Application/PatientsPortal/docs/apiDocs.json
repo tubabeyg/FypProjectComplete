@@ -1,0 +1,16 @@
+{
+    "/":"get all post",
+    "/signup":"signup",
+    "/signin":"signin",
+    "/signout":"signout",
+    "/patients":"get all patients",
+    "/patient/:patientId":"get current patient",
+    "/patient/:patientId":"delete user",
+    "/patient/:patientId":"update user",
+    "/appointments":"get all appointments",
+    "/appointment/new/:patientId":"create new appointment",
+    "/appointment/by/:patientId":"get appointment by patient",
+    "/appointment/appointmentId":"update appointment",
+    "/appointment/appointmentId":"delete appointment"
+    
+}
